@@ -2,7 +2,7 @@
 
 Use this process when the user asks for any text.
 
-## 1. Frame the assignment
+## 1. Normalize the brief
 
 Clarify internally:
 
@@ -12,8 +12,27 @@ Clarify internally:
 - awareness level
 - desired outcome
 - desired action
+- hard constraints
 
-## 2. Pick the angle
+If the brief is incomplete, infer the missing parts when the risk is low.
+
+## 2. Load only the needed context
+
+Always load:
+
+- editorial policy
+- ToV
+- editing checklist
+- ethics
+- terminology
+
+Then add:
+
+- one channel file
+- one task file
+- only the most relevant examples
+
+## 3. Pick the angle
 
 Good Yasno copy starts with the angle, not with the wording.
 
@@ -25,8 +44,10 @@ Typical angles:
 - gently provocative
 - proof-based
 - service-oriented
+- reflective
+- useful-promo
 
-## 3. Choose the level of complexity
+## 4. Choose the level of complexity
 
 The copy should be simple, but not flattened.
 
@@ -36,11 +57,24 @@ Ask:
 - Does this concept require unpacking?
 - Is there a shorter way to say the same thing without losing thought?
 
-## 4. Draft fast
+## 5. Draft in the real channel unit
+
+Do not draft a generic text and plan to reshape it later.
+
+Draft in the actual unit of the channel:
+
+- first slide
+- subject line
+- bot message
+- poll hook
+- hero section
+- opening paragraph
+
+## 6. Draft fast
 
 Write a strong first version before over-editing.
 
-## 5. Edit hard
+## 7. Edit hard
 
 Run the editing checklist and cut:
 
@@ -50,11 +84,11 @@ Run the editing checklist and cut:
 - overpromising
 - generic pop-psychology
 
-## 6. Adapt to the channel
+## 8. Adapt to the channel
 
 Do not write one "master text" and only shorten it. Rebuild it for the channel.
 
-## 7. Return useful options
+## 9. Return useful options
 
 When relevant, include:
 
@@ -63,3 +97,13 @@ When relevant, include:
 - alternate CTAs
 - shorter version
 - adapted version for another channel
+
+## 10. Final production check
+
+Before returning the result, verify:
+
+- the opening is doing real work
+- the CTA matches the meaning of the text
+- the text respects Yasno ethics
+- the format matches the channel mechanics
+- the draft sounds like Yasno, not generic marketing

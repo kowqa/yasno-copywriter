@@ -129,6 +129,159 @@ Adapt the output to the channel. For example:
 - Telegram: hook, body, CTA, optional comments prompt
 - bot: compact microcopy, clear next step, predictable tone
 
+## Production mode
+
+When the user asks for a real working draft, use this production sequence.
+
+### 1. Normalize the brief
+
+Internally reduce the task to:
+
+- channel
+- task type
+- audience
+- topic
+- desired outcome
+- desired action
+- hard constraints
+
+If the user forgot one of these, infer it when safe.
+
+### 2. Pick the minimum necessary context
+
+Always load:
+
+- core files
+
+Then only:
+
+- one channel file
+- one task file
+- the smallest relevant example set
+
+Avoid loading every reference file by default.
+
+### 3. Choose an angle before wording
+
+Before writing, identify 2-3 plausible angles.
+
+Good angle labels:
+
+- supportive
+- explanatory
+- reframing
+- useful-promo
+- proof-based
+- reflective
+- service-oriented
+
+Pick one main angle and stay consistent.
+
+### 4. Write for the actual unit of the channel
+
+Do not write abstractly. Write in the real production unit.
+
+Examples:
+
+- Instagram: first slide + slides + caption
+- Telegram: opening line + body + optional CTA
+- VK: hook + interaction mechanic + body
+- email: subject + preview + body + CTA
+- landing: hero + sections + CTA blocks
+- bot: message-by-message flow
+- longread: thesis + structure + article body
+
+### 5. Return useful options
+
+By default, include:
+
+- one main version
+- 2-3 alternate openings, headlines, or first screens when relevant
+- 2-3 CTA options when relevant
+
+### 6. Run the self-check before returning
+
+Check for:
+
+- Yasno voice
+- channel fit
+- task fit
+- ethical safety
+- manipulative language
+- unnecessary abstraction
+- weak opening
+- mismatch between meaning and CTA
+
+## Output contracts by channel
+
+Use these defaults unless the user asks for a different format.
+
+### Instagram
+
+Return:
+
+- 2-3 first-slide options
+- slide-by-slide structure
+- caption
+- optional story bridge
+
+### Telegram
+
+Return:
+
+- 2-3 opening lines
+- main post
+- optional CTA
+- optional comments prompt
+
+### VK
+
+Return:
+
+- 2-3 hook options
+- main post or clip-support text
+- poll or comment prompt if relevant
+
+### Email
+
+Return:
+
+- 3 subject lines
+- preview text
+- main body
+- CTA options
+
+### Landing
+
+Return:
+
+- 2-3 hero options
+- subhead
+- section structure
+- proof points
+- CTA blocks
+
+### Bot
+
+Return:
+
+- flow by message
+- buttons
+- fallback wording only if needed
+
+### Longread
+
+Return:
+
+- thesis
+- structure
+- body draft or section draft
+- soft service bridge
+
+### Other
+
+Return the smallest format that still makes the text usable in production.
+
 ## Style rules
 
 - Write in Russian unless the user explicitly asks otherwise.

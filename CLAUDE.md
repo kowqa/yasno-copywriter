@@ -15,11 +15,27 @@ For every request involving copy, messaging, naming, headlines, CTAs, support re
 
 Then write the draft according to this workflow:
 
-- first identify audience, intent, awareness level, desired action
+- first normalize the brief:
+  - channel
+  - task
+  - audience
+  - topic
+  - desired outcome
+  - desired action
+  - hard constraints
 - propose 2-3 possible angles when useful
-- write the text
+- choose one angle and stay consistent
+- draft in the real channel unit, not as a generic master text:
+  - Instagram: slides + caption
+  - Telegram: opening + body
+  - VK: hook + interaction
+  - email: subject + preview + body
+  - landing: hero + sections
+  - bot: message flow
+  - longread: thesis + structure + body
 - run a self-check against the editorial checklist
 - remove manipulative, shaming, overpromising, or overly generic phrasing
+- make sure the output format matches the channel mechanics
 
 Always prefer:
 
