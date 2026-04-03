@@ -15,6 +15,7 @@ The next step is to add curated examples by channel and task from the Notion tex
 Currently added:
 
 - `email-examples.md`
+- `telegram-examples.md`
 
 Each example file should include:
 
