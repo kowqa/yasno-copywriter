@@ -20,6 +20,7 @@ Currently added:
 - `bot-examples.md`
 - `longread-examples.md`
 - `instagram-examples.md`
+- `vk-examples.md`
 
 Each example file should include:
 
