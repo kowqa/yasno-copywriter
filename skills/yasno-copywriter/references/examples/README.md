@@ -12,6 +12,10 @@ The next step is to add curated examples by channel and task from the Notion tex
 - support replies
 - public replies to negative feedback
 
+Currently added:
+
+- `email-examples.md`
+
 Each example file should include:
 
 - source
