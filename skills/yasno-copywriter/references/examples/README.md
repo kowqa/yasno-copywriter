@@ -19,6 +19,7 @@ Currently added:
 - `landing-examples.md`
 - `bot-examples.md`
 - `longread-examples.md`
+- `instagram-examples.md`
 
 Each example file should include:
 
