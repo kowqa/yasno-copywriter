@@ -201,6 +201,114 @@ Reusable patterns:
 - choose a strong interpretive angle
 - make the book relevant to the reader’s life
 
+## Example 9. Reader dilemma with therapist answer
+
+Sources:
+
+- multiple `Отвечает` posts from the Telegram archive
+- example topic: `Как пережить расставание после длительных отношений?`
+
+Task:
+
+- educational
+- support
+- soft promo
+
+Why it works:
+
+- starts from a highly specific reader situation
+- immediately creates emotional reality and relevance
+- the therapist voice sounds grounded and containing
+- the answer combines validation, explanation, and reflection questions
+- therapy is present as a support frame, not as a forced conclusion
+
+Reusable patterns:
+
+- open with the dilemma in the reader’s own language
+- add one-line therapist attribution
+- validate before explaining
+- use 2-4 reflection questions near the end
+- let the answer feel like a real response, not a content template
+
+## Example 10. Editorial promo built around a real idea
+
+Sources:
+
+- promo posts for `Теперь ясно`
+- posts with a psychological question followed by a soft offer or show link
+
+Task:
+
+- promo
+- educational
+
+Why it works:
+
+- it earns attention through a real psychological tension
+- the offer is secondary to the idea
+- even when there is ad marking, the body still reads like an editorial post
+
+Reusable patterns:
+
+- lead with a useful question
+- add one explanatory paragraph before the offer
+- keep the promo/legal block visually separate
+- let the CTA match the content object:
+  - watch
+  - read
+  - take the test
+  - start therapy
+
+## Example 11. Rubric post as channel architecture
+
+Sources:
+
+- `#ясно_книги`
+- `#ясно_тесты`
+- `#ясно_упражнения`
+- `#ясно_соня`
+
+Task:
+
+- engagement
+- recurring format
+
+Why it works:
+
+- repeated rubric markers make the channel feel curated and recognizable
+- the audience learns what kind of value to expect from each tag
+- the brand voice stays consistent even when the format changes
+
+Reusable patterns:
+
+- keep a stable naming system for recurring formats
+- let each rubric have its own tonal center
+- use repetition to build editorial trust, not monotony
+
+## Example 12. Cultural recommendation with a psychological lens
+
+Sources:
+
+- archive posts under `#ясно_книги`
+- reading lists and single-book interpretations
+
+Task:
+
+- recommendation
+- educational
+
+Why it works:
+
+- the post is not just a recommendation list
+- it extracts a psychological insight from the book
+- it invites reflection and comments naturally
+
+Reusable patterns:
+
+- start from the central idea of the book, not from title + author only
+- connect the recommendation to a familiar inner conflict
+- ask readers what they would add or what stayed with them
+
 ## Cross-example conclusions
 
 What Yasno Telegram tends to do well:
@@ -210,6 +318,9 @@ What Yasno Telegram tends to do well:
 - gives the reader a more interesting explanation than they expected
 - stays calm even on loaded topics
 - treats psychological complexity as normal
+- sustains recurring rubrics without sounding formulaic
+- uses therapist authority without institutional stiffness
+- keeps promotional posts editorially credible
 
 What to preserve in new Telegram writing:
 
@@ -218,3 +329,4 @@ What to preserve in new Telegram writing:
 - emotional tact
 - confidence without posturing
 - a sense that the text slightly changes how the reader sees the issue
+- format awareness: mini-essay, Q&A, rubric, promo, recommendation should not all sound identical

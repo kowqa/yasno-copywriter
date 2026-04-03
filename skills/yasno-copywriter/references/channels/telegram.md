@@ -29,6 +29,83 @@ It is more often:
 - a reframing of a familiar issue
 - a psychologically informed explanation of a behavior, symptom, or conflict
 
+The full channel history also shows that Telegram is not one format. It is a small editorial system with recurring rubrics.
+
+Common recurring rubrics include:
+
+- expert Q&A posts
+- book recommendations and reading lists
+- tests and quizzes
+- practical exercises
+- recurring comic or serial formats
+- podcast and video announcements
+- promotional posts built around a real psychological idea
+
+## Telegram format families in Yasno
+
+### Family A. Mini-essay
+
+This is the format already visible in the curated Notion examples:
+
+- one idea
+- one psychological lens
+- one compact but thoughtful arc
+
+### Family B. Expert answer
+
+This is one of the strongest recurring formats in the full archive.
+
+Typical structure:
+
+1. a real-life reader question in direct speech
+2. `Отвечает` block with therapist credentials
+3. a careful answer that validates the situation
+4. conceptual explanation
+5. reflection questions or a soft practical step
+
+Why it matters:
+
+- it lets Yasno sound expert without sounding institutional
+- it grounds theory in an actual human dilemma
+- it converts well into therapy without hard selling
+
+### Family C. Editorial promo
+
+Many promotional posts in Telegram still start from a useful idea, not from an offer.
+
+Typical structure:
+
+1. a psychologically loaded question or tension
+2. short framing from Yasno or an expert
+3. link to a show, article, course, or therapist flow
+4. promo/legal block if required
+
+The key rule:
+
+- value first
+- offer second
+
+### Family D. Recommendation or cultural post
+
+This includes:
+
+- `#ясно_книги`
+- film lists
+- reading selections
+- quotes and interpretation
+
+These posts work best when they do not just recommend content, but explain why it matters psychologically.
+
+### Family E. Interactive utility post
+
+This includes:
+
+- `#ясно_тесты`
+- `#ясно_квиз`
+- `#ясно_упражнения`
+
+The tone in these posts is usually lighter and more actionable, but still brand-aligned.
+
 ## Recurring structural patterns
 
 ### Pattern A. Myth or common belief -> deeper explanation
@@ -65,6 +142,39 @@ Typical move:
 3. Add 2-4 specific consequences or manifestations.
 4. Tie it back to everyday life.
 
+### Pattern D. Reader question -> therapist answer
+
+Typical move:
+
+1. quote or paraphrase the reader's dilemma
+2. introduce the therapist in one line
+3. validate the emotional reality of the situation
+4. explain what may be happening underneath
+5. offer reflection questions, a small exercise, or a soft next step
+
+### Pattern E. Useful promo
+
+Typical move:
+
+1. open with a question that already gives the reader something to think about
+2. name the topic in psychologically precise language
+3. introduce the expert, show, course, or article
+4. keep the promo block separate and calm
+
+### Pattern F. Series and recurring rubrics
+
+Typical move:
+
+1. clear rubric marker:
+   - `#ясно_книги`
+   - `#ясно_тесты`
+   - `#ясно_упражнения`
+   - `#ясно_соня`
+2. familiar internal structure for the reader
+3. a stable editorial promise
+
+Recurring rubrics help the channel feel like a publication, not a stream of unrelated posts.
+
 ## What makes Yasno Telegram strong
 
 - it treats the reader as intelligent
@@ -72,6 +182,9 @@ Typical move:
 - it gives a real psychological frame, not just a label
 - it often moves from a visible symptom to a deeper structure
 - it avoids fake simplification
+- it can switch formats without losing the brand voice
+- it uses expert attribution well
+- it keeps promotional content editorial
 
 ## Voice inside Telegram
 
@@ -88,6 +201,13 @@ But it should still remain:
 - emotionally accurate
 - non-academic in surface texture
 
+In expert-answer posts, the tone should also be:
+
+- containing
+- specific
+- non-diagnostic unless necessary
+- generous without being overlong
+
 ## Openings that work
 
 Good Telegram openings often do one of these:
@@ -96,6 +216,12 @@ Good Telegram openings often do one of these:
 - start with a familiar internal contradiction
 - start with a common phrase and overturn it
 - start with a strong statement that creates curiosity without sounding like bait
+- start with a reader dilemma that feels painfully specific
+- start with a cultural object:
+  - a book
+  - a quote
+  - a film
+  - a pop-psychology phrase
 
 ## What to avoid
 
@@ -119,15 +245,33 @@ Often the best ending is:
 
 If using CTA, keep it editorially justified.
 
+In the fuller channel archive, CTA often takes one of these forms:
+
+- watch the episode
+- take the test
+- read the article
+- choose a therapist
+- write in the comments
+
+The CTA should match the format family. A recommendation post and a therapist-answer post should not end the same way.
+
 ## Good formats
 
 - provocative question
 - reframing
 - mini-essay
 - list with a clear point of view
+- expert Q&A
+- recommendation post with interpretation
+- test or exercise post
+- recurring serial rubric
+- editorial promo with an expert hook
 
 ## Avoid
 
 - clickbait
 - vague inspiration
 - overlong preambles
+- promo-first framing with no real idea
+- generic therapist marketing language
+- making every post sound like the same mini-essay

@@ -28,3 +28,9 @@ Each example file should include:
 - why the example is good
 - what patterns can be reused
 - what should not be copied blindly
+
+Some channels may also include:
+
+- rubric or series type
+- CTA pattern
+- how the format supports the broader channel architecture
