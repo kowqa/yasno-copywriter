@@ -16,6 +16,7 @@ Currently added:
 
 - `email-examples.md`
 - `telegram-examples.md`
+- `landing-examples.md`
 
 Each example file should include:
 
