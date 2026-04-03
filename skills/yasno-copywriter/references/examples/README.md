@@ -18,6 +18,7 @@ Currently added:
 - `telegram-examples.md`
 - `landing-examples.md`
 - `bot-examples.md`
+- `longread-examples.md`
 
 Each example file should include:
 
