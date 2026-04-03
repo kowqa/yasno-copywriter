@@ -1,0 +1,3 @@
+display_name: Yasno Copywriter
+short_description: Writes Yasno brand copy across channels using the brand's editorial policy and tone of voice.
+default_prompt: Write on-brand Yasno copy for the requested channel and task using the repository references.
